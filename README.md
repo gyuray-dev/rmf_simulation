@@ -88,7 +88,7 @@ It is added with the following snippet:
 
 #### Toggle floors
 
-Toggle charging is a world plugin, added by default to all Open-RMF worlds, that adds a GUI plugin with buttons to enable / disable visibility of specific floors, to make visualization of intermediate floors easier.
+Toggle floors is a world plugin, added by default to all Open-RMF worlds, that adds a GUI plugin with buttons to enable / disable visibility of specific floors, to make visualization of intermediate floors easier.
 
 An example SDF snippet:
 
